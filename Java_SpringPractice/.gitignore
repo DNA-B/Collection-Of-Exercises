@@ -1,0 +1,3 @@
+# except .pdf .zip
+*.pdf
+*.zip
