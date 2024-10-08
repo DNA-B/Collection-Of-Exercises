@@ -16,7 +16,7 @@ public class Sale {
         printer.print(buf);
     }
 
-    public void setPrinter(ReceiptPrinter printer) {
+    public void setReceiptPrinter(ReceiptPrinter printer) {
         this.printer = printer;
     }
 

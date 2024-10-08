@@ -5,9 +5,9 @@ public class Client {
         Sale sale = new Sale();
         sale.add(item1);
         sale.add(item2);
-        sale.setPrinter(new FakePrinter());
+        sale.setReceiptPrinter(new FakePrinter());
         sale.printReceipt();
-        sale.setPrinter(new HD108ReceiptPrinter());
+        sale.setReceiptPrinter(new HD108ReceiptPrinter());
         sale.printReceipt();
     }
 }
