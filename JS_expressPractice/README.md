@@ -1,6 +1,6 @@
-![image](https://github.com/DNA-B/JS_expressPractice/assets/102334596/44230e52-6ce0-4269-938e-ccbe78589f45)
+![image](https://github.com/DNA-B/Collection-Of-Exercises/tree/main/JS_expressPractice/assets/102334596/44230e52-6ce0-4269-938e-ccbe78589f45)
 
-## [Chapter 1](https://github.com/DNA-B/JS_expressPractice/blob/main/chapter_summary/Chapter1.md)
+## [Chapter 1](https://github.com/DNA-B/Collection-Of-Exercises/tree/main/JS_expressPractice/blob/main/chapter_summary/Chapter1.md)
 
 -   express.js의 동작
 -   express.js 설치
