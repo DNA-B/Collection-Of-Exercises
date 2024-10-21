@@ -1,4 +1,4 @@
-## [Chapter 1 (Spring Framework 시작하기)](https://github.com/DNA-B/Java_Spring-Practice/blob/main/summary/Chapter1.md)
+## [Chapter 1 (Spring Framework 시작하기)](https://github.com/DNA-B/Collection-Of-Exercises/blob/main/Java_SpringPractice/summary/Chapter1.md)
 - 강한 결합
 - 느슨한 결합
 - Annotation (Configuration, Primary, Qualifier)
@@ -8,7 +8,7 @@
 
 <br><br>
 
-## [Chapter 2 (Spring Framework의 객체 생성 및 관리)](https://github.com/DNA-B/Java_Spring-Practice/blob/main/summary/Chapter2.md)
+## [Chapter 2 (Spring Framework의 객체 생성 및 관리)](https://github.com/DNA-B/Collection-Of-Exercises/blob/main/Java_SpringPractice/summary/Chapter2.md)
 - Main Class의 Configuration
 - Bean의 자동 생성 - Component
 - Main Class에서의 Bean 탐색
@@ -19,7 +19,7 @@
 
 <br><br>
 
-## [Chapter 3 (Spring Framework 고급 기능)](https://github.com/DNA-B/Java_Spring-Practice/blob/main/summary/Chapter3.md)
+## [Chapter 3 (Spring Framework 고급 기능)](https://github.com/DNA-B/Collection-Of-Exercises/blob/main/Java_SpringPractice/summary/Chapter3.md)
 - 지연 초기화 / 즉시 초기화(Eager)
 - Bean Scope(SingleTone, Prototype)
 - `@PostConstruct`와 `@PreDestroy`
@@ -29,7 +29,7 @@
 
 <br><br>
 
-## [Chapter 4 (Spring Boot 시작하기)](https://github.com/DNA-B/Java_Spring-Practice/blob/main/summary/Chapter4.md)
+## [Chapter 4 (Spring Boot 시작하기)](https://github.com/DNA-B/Collection-Of-Exercises/blob/main/Java_SpringPractice/summary/Chapter4.md)
 - 개요
 - Spring Boot의 목표
 - Spring Boot Starter Project
@@ -43,7 +43,7 @@
 
 <br><br>
 
-## [Chapter 5 (Spring과 Spring Boot로 JPA와 Hibernate 시작하기)](https://github.com/DNA-B/Java_Spring-Practice/blob/main/summary/Chapter5.md)
+## [Chapter 5 (Spring과 Spring Boot로 JPA와 Hibernate 시작하기)](https://github.com/DNA-B/Collection-Of-Exercises/blob/main/Java_SpringPractice/summary/Chapter5.md)
 - 개요
 - h2 Database
 - Spring JDBC
@@ -53,7 +53,7 @@
 
 <br><br>
 
-## [Chapter 6-1 (Spring Framework, Spring Boot, Hibernate로 Java 웹 애플리케이션 만들기)](https://github.com/DNA-B/Java_Spring-Practice/blob/main/summary/Chapter6-1.md)
+## [Chapter 6-1 (Spring Framework, Spring Boot, Hibernate로 Java 웹 애플리케이션 만들기)](https://github.com/DNA-B/Collection-Of-Exercises/blob/main/Java_SpringPractice/summary/Chapter6-1.md)
 - Spring MVC
 - View - JSP file
 - 백그라운드에서 일어나는 일
@@ -66,7 +66,7 @@
 
 <br><br>
 
-## [Chapter 6-2](https://github.com/DNA-B/Java_Spring-Practice/blob/main/summary/Chapter6-2.md)
+## [Chapter 6-2](https://github.com/DNA-B/Collection-Of-Exercises/blob/main/Java_SpringPractice/summary/Chapter6-2.md)
 - redirect:”URL”
 - Validation with Spring Boot 
 - 네비게이션 바
@@ -77,7 +77,7 @@
 
 <br><br>
 
-## [Chapter 7-1 (Spring Framework, Spring Boot, Hibernate로 Java REST API 생성하기)](https://github.com/DNA-B/Java_Spring-Practice/blob/main/summary/Chapter7-1.md)
+## [Chapter 7-1 (Spring Framework, Spring Boot, Hibernate로 Java REST API 생성하기)](https://github.com/DNA-B/Collection-Of-Exercises/blob/main/Java_SpringPractice/summary/Chapter7-1.md)
 - @RequestMapping
 - 백엔드에서 일어나는 일
 - Path Parameters
@@ -92,7 +92,7 @@
 
 <br><br>
 
-## [Chapter 7-2](https://github.com/DNA-B/Java_Spring-Practice/blob/main/summary/Chapter7-2.md)
+## [Chapter 7-2](https://github.com/DNA-B/Collection-Of-Exercises/blob/main/Java_SpringPractice/summary/Chapter7-2.md)
 - REST API 문서
 - Swagger
 - Open API
@@ -103,7 +103,7 @@
 
 <br><br>
 
-## [Chapter 7-3](https://github.com/DNA-B/Java_Spring-Practice/blob/main/summary/Chapter7-3.md)
+## [Chapter 7-3](https://github.com/DNA-B/Collection-Of-Exercises/blob/main/Java_SpringPractice/summary/Chapter7-3.md)
 - REST API HATEOAS
 - REST API 정적 필터링
 - Spring Boot Actuator
@@ -114,7 +114,7 @@
 
 <br><br>
 
-## [Chapter 8 (Spring Boot와 React로 JAVA 풀스택 애플리케이션 구축하기)](https://github.com/DNA-B/Java_Spring-Practice/blob/main/summary/Chapter8.md)
+## [Chapter 8 (Spring Boot와 React로 JAVA 풀스택 애플리케이션 구축하기)](https://github.com/DNA-B/Collection-Of-Exercises/blob/main/Java_SpringPractice/summary/Chapter8.md)
 - node.js / npm / npx
 - 주요 Node.js 명령어
 - React 파일 구조
@@ -127,7 +127,7 @@
 
 <br><br>
 
-## [Chapter 9 (예제를 통해 React 컴포넌트 살펴보기)](https://github.com/DNA-B/Java_Spring-Practice/blob/main/summary/Chapter9.md)
+## [Chapter 9 (예제를 통해 React 컴포넌트 살펴보기)](https://github.com/DNA-B/Collection-Of-Exercises/blob/main/Java_SpringPractice/summary/Chapter9.md)
 - Counter
 - React에서의 styling 옵션
 - useState
@@ -137,7 +137,7 @@
 
 <br><br>
 
-## [Chapter 10 (Spring Boot와 React로 Java 풀스택 Todo 애플리케이션 만들기)](https://github.com/DNA-B/Java_Spring-Practice/blob/main/summary/Chapter10.md)
+## [Chapter 10 (Spring Boot와 React로 Java 풀스택 Todo 애플리케이션 만들기)](https://github.com/DNA-B/Collection-Of-Exercises/blob/main/Java_SpringPractice/summary/Chapter10.md)
 - JSX 주석
 - 컴포넌트 제어
 - JS에서의 좀 특이한….
@@ -150,7 +150,7 @@
 
 <br><br>
 
-## [Chapter 11 (JPA 및 Hibernate를 사용한 Java 풀스택 애플리케이션 연결하기)](https://github.com/DNA-B/Java_Spring-Practice/blob/main/summary/Chapter11.md)
+## [Chapter 11 (JPA 및 Hibernate를 사용한 Java 풀스택 애플리케이션 연결하기)](https://github.com/DNA-B/Collection-Of-Exercises/blob/main/Java_SpringPractice/summary/Chapter11.md)
 - API 연결
 - useEffect에 대하여
 - formik, moment
@@ -160,7 +160,7 @@
 
 <br><br>
 
-## [Chapter 12 (JUnit으로 단위 테스트하기)](https://github.com/DNA-B/Java_Spring-Practice/blob/main/summary/Chapter12.md)
+## [Chapter 12 (JUnit으로 단위 테스트하기)](https://github.com/DNA-B/Collection-Of-Exercises/blob/main/Java_SpringPractice/summary/Chapter12.md)
 - 단위 테스트를 하는 이유?
 - JUnit 실행
 - 테스트 개선
@@ -169,7 +169,7 @@
 
 <br><br>
 
-## [Chapter 13 (Stub과 Mock)](https://github.com/DNA-B/Java_Spring-Practice/blob/main/summary/Chapter13.md)
+## [Chapter 13 (Stub과 Mock)](https://github.com/DNA-B/Collection-Of-Exercises/blob/main/Java_SpringPractice/summary/Chapter13.md)
 - 모킹이란?
 - 예시 프로젝트 만들기
 - Stub을 이용한 단위 테스트
@@ -179,7 +179,7 @@
 
 <br><br>
 
-## [Chapter 14 (Spring Security)](https://github.com/DNA-B/Java_Spring-Practice/blob/main/summary/Chapter14.md)
+## [Chapter 14 (Spring Security)](https://github.com/DNA-B/Collection-Of-Exercises/blob/main/Java_SpringPractice/summary/Chapter14.md)
 - 보안의 기초
 - 보안의 원칙
 - Spring Security 시작하기
