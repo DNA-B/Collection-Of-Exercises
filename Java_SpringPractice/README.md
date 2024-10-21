@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/744d6b39-228c-4f76-85e0-d6b9f3495c06">
+</div>
+
+
 ## [Chapter 1 (Spring Framework 시작하기)](https://github.com/DNA-B/Collection-Of-Exercises/blob/main/Java_SpringPractice/summary/Chapter1.md)
 - 강한 결합
 - 느슨한 결합
