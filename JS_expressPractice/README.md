@@ -1,5 +1,5 @@
 <div align='center'>
-  ![image](https://github.com/user-attachments/assets/210a7fa0-d4f1-4b2f-8be6-10ab6df4239d)
+  <img src="https://github.com/user-attachments/assets/210a7fa0-d4f1-4b2f-8be6-10ab6df4239d">
 </div>
 
 ## [Chapter 1](https://github.com/DNA-B/Collection-Of-Exercises/blob/main/JS_expressPractice/chapter_summary/Chapter1.md)
