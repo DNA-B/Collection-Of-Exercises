@@ -7,7 +7,7 @@
 
 public class PepperoniToppingDecorator extends ToppingDecorator {
     public PepperoniToppingDecorator(AbstractPizza pizza) {
-        super(pizza); // 토핑을 추가하고 나서 super의 pizza 갱신
+        super(pizza); // 이전의 피자를 super의 pizza로 갱신
     }
     
     @Override
